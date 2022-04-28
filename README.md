@@ -5,7 +5,7 @@ This is the Korean version implementation of "[Dialogue Summaries as Dialogue St
 <p align="center">
 <img src="./ds2_1.png">
 </p>
-I made the Korean heuristic converter myself, and it was relatively unnatural than the English converter because of the difference in characteristics between Korean and English. Therefore, the model can make better performance if you make your own converter.
+I made the Korean heuristic converter myself, and it was relatively unnatural than the English converter because of the difference in characteristics between Korean and English. Therefore, the model can make better performance if you make the natural converter.
 
 ## Leaderboard
 Few-shot JGA(%) is calculated with the validation set because the test set is not open to public.
