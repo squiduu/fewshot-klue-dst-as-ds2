@@ -13,38 +13,47 @@ Few-shot JGA is calculated with the validation set because the test set is not o
 <table>
   <tr>
     <td rowspan="2" align="center"> Model</td>
-    <td colspan="10" align="center"> Domains</td>
+    <td colspan="15" align="center"> Domains</td>
   </tr>
   <tr>
-    <td colspan="2" align="center"> 관광</td>
-    <td colspan="2" align="center"> 식당</td>
-    <td colspan="2" align="center"> 숙소</td>
-    <td colspan="2" align="center"> 지하철</td>
-    <td colspan="2" align="center"> 택시</td>
+    <td colspan="3" align="center"> 관광</td>
+    <td colspan="3" align="center"> 식당</td>
+    <td colspan="3" align="center"> 숙소</td>
+    <td colspan="3" align="center"> 지하철</td>
+    <td colspan="3" align="center"> 택시</td>
   </tr>
   <tr>
     <td rowspan="2" align="center"> Kolang-T5-base </td>
     <td align="center"> 1% </td>
     <td align="center"> 5% </td>
+    <td align="center"> 10% </td>
     <td align="center"> 1% </td>
     <td align="center"> 5% </td>
+    <td align="center"> 10% </td>
     <td align="center"> 1% </td>
     <td align="center"> 5% </td>
+    <td align="center"> 10% </td>
     <td align="center"> 1% </td>
     <td align="center"> 5% </td>
+    <td align="center"> 10% </td>
     <td align="center"> 1% </td>
     <td align="center"> 5% </td>
   </tr>
   <tr>
-    <td> 52.55% </td>
+    <td> 52.6 </td>
     <td> TBD </td>
-    <td> 38.67% </td>
     <td> TBD </td>
-    <td> 30.63% </td>
+    <td> 38.7 </td>
     <td> TBD </td>
-    <td> 81.58% </td>
     <td> TBD </td>
-    <td> 44.93% </td>
+    <td> 30.6 </td>
+    <td> TBD </td>
+    <td> TBD </td>
+    <td> 81.6 </td>
+    <td> TBD </td>
+    <td> TBD </td>
+    <td> 44.9 </td>
+    <td> TBD </td>
     <td> TBD </td>
   </tr>
 </table>
