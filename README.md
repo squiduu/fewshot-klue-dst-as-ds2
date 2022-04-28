@@ -8,7 +8,7 @@ This is the Korean version implementation of "[Dialogue Summaries as Dialogue St
 I made the Korean heuristic converter myself, and it was relatively unnatural than English converter because of the difference in characteristics between Korean and English. Therefore, the model can make better performance if you make your own converter.
 
 ## Leaderboard
-Few-shot JGA is calculated with the validation set because the test set is not open to public.
+Few-shot JGA(%) is calculated with the validation set because the test set is not open to public.
 
 <table>
   <tr>
@@ -38,6 +38,7 @@ Few-shot JGA is calculated with the validation set because the test set is not o
     <td align="center"> 10% </td>
     <td align="center"> 1% </td>
     <td align="center"> 5% </td>
+    <td align="center"> 10% </td>
   </tr>
   <tr>
     <td> 52.6 </td>
