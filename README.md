@@ -97,7 +97,7 @@ Please set the training arguments `--dev_batch_size`, `--test_batch_size`, `--tr
 ```
 sh train.sh
 ```
-It takes approximately 5 minutes per epoch on 2 NVIDIA Titan RTX under for 1% of train set.
+It takes approximately 5 minutes per epoch on 2 NVIDIA Titan RTX for 1% of train set.
 Finally, you can check the metrics from `metrics.csv` in `./log` if you follow the above commands.
 
 ## Citation and Contact
