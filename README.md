@@ -9,13 +9,13 @@ I made the Korean heuristic converter myself, and it was relatively unnatural th
 
 ## Leaderboard
 Few-shot JGA is calculated with the validation set because the test set is not open to public.
+
 <table>
   <tr>
-    <td align="center"> </td>
-    <td colspan="11" align="center"> Domains</td>
+    <td rowspan="2" align="center"> Model</td>
+    <td colspan="10" align="center"> Domains</td>
   </tr>
   <tr>
-    <td align="center"> Model</td>
     <td colspan="2" align="center"> 관광</td>
     <td colspan="2" align="center"> 식당</td>
     <td colspan="2" align="center"> 숙소</td>
@@ -48,6 +48,7 @@ Few-shot JGA is calculated with the validation set because the test set is not o
     <td> TBD </td>
   </tr>
 </table>
+
 The pre-trained LM used in this repository is [Kolang-T5-base](https://github.com/seujung/kolang-t5-base).
 
 ## Installation
