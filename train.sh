@@ -1,0 +1,17 @@
+python train_ds2_kor.py \
+    --dev_batch_size 12 \
+    --test_batch_size 12 \
+    --train_batch_size 12 \
+    --num_epochs 100 \
+    --num_beams 1 \
+    --test_num_beams 1 \
+    --val_check_interval 1.0 \
+    --fewshot 0.01 \
+    --grad_acc_steps 2 \
+    --model_name kolang-t5-base \
+    --model_checkpoint digit82/kolang-t5-base \
+    --mode finetune \
+    --exp_name kolang-t5-base-kluewos11 \
+    --seed 42 \
+    --dataset_version v1.1 \
+    --num_gpus 2
