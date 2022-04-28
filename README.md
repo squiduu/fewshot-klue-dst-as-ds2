@@ -36,15 +36,15 @@ Few-shot JGA is calculated with the validation set because the test set is not o
     <td align="center"> 5% </td>
   </tr>
   <tr>
-    <td> 52.55 % </td>
+    <td> 52.55% </td>
     <td> TBD </td>
-    <td> 38.67 % </td>
+    <td> 38.67% </td>
     <td> TBD </td>
-    <td> 30.63 % </td>
+    <td> 30.63% </td>
     <td> TBD </td>
-    <td> 81.58 % </td>
+    <td> 81.58% </td>
     <td> TBD </td>
-    <td> 44.93 % </td>
+    <td> 44.93% </td>
     <td> TBD </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ Please set the training arguments `--dev_batch_size`, `--test_batch_size`, `--tr
 ```
 sh train.sh
 ```
-It takes approximately 5 minutes on 2 NVIDIA Titan RTX under for 1% of train set.
+It takes approximately 5 minutes per epoch on 2 NVIDIA Titan RTX under for 1% of train set.
 Finally, you can check the metrics from `metrics.csv` in `./log` if you follow the above commands.
 
 ## Citation and Contact
