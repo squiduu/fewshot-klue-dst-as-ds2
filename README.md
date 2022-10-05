@@ -42,8 +42,8 @@ Few-shot JGA(%) is calculated with the validation set because the test set is no
     <td> 50.0 </td>
     <td> 30.6 </td>
     <td> 64.1 </td>
-    <td> 81.6 </td>
     <td> 63.0 </td>
+    <td> 81.6 </td>
     <td> 44.9 </td>
     <td> 77.9 </td>
   </tr>
